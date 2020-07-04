@@ -1,5 +1,5 @@
 # medical_based_chatbot
-## The intent based chatbot which responses regarding the medical queries.It is created using Python and used NLP techniques and Deep Learning.
+## The intent based chatbot which responses regarding the medical queries.It is created using Python,NLP techniques and Deep Learning.For GUI,Tkinter is used
 
 ## Dependencies
 - Tkinter
